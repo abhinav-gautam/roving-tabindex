@@ -42,7 +42,6 @@ export function Button(props: ButtonProps) {
     const { elements, getOrderedItems, setFocusableId, focusableId } =
         useContext(RovingTabindexContext)
 
-
     return (
         <button
             // Same

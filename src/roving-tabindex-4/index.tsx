@@ -122,7 +122,7 @@ export function ButtonGroup() {
 
                 // On press of shift tab set isShiftTabbing to true
                 onShiftTab: function () {
-                    // setIsShiftTabbing(true)
+                    setIsShiftTabbing(true)
                 },
             }}
         >
